@@ -14,7 +14,7 @@ Co-Founder and Designer at Sheldon.studio srl
 hello@matteomoretti.com
 www.matteomoretti.com
 ·
-*Updated May 2026*
+*updated May 2026*
 @cover-end
 
 **Matteo Maria Moretti**
