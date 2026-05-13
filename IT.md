@@ -6,7 +6,6 @@
 
 
 Professore di seconda fascia presso l’Università degli Studi di Sassari
-Co-Founder e Designer presso Sheldon.studio srl
 
 
 
@@ -19,7 +18,7 @@ https://orcid.org/0000-0002-0595-7114
 @cover-end
 
 **Matteo Maria Moretti**
-Co-Founder e Designer presso Sheldon.studio srl. Professore di seconda fascia presso l’Università degli Studi di Sassari. Si occupa di design dell’informazione, visual journalism e social design, con un focus sull’uso dei dati come strumento di comunicazione, partecipazione e trasformazione sociale. La sua attività integra ricerca, didattica e pratica professionale, esplorando approcci interdisciplinari tra design, scienze sociali e tecnologie digitali.
+Professore di seconda fascia presso l’Università degli Studi di Sassari. Si occupa di design dell’informazione, visual journalism e social design, con un focus sull’uso dei dati come strumento di comunicazione, partecipazione e trasformazione sociale. La sua attività integra ricerca, didattica e pratica professionale, esplorando approcci interdisciplinari tra design, scienze sociali e tecnologie digitali.
 
 ## Formazione
 Laurea quinquennale a ciclo unico in Disegno Industriale presso il Politecnico di Milano: *Natural Behaviour in Digital Environment* 2005.

@@ -6,7 +6,7 @@
 
 
 Associate Professor at the University of Sassari
-Co-Founder and Designer at Sheldon.studio srl
+
 
 
 
@@ -19,7 +19,7 @@ https://orcid.org/0000-0002-0595-7114
 @cover-end
 
 **Matteo Maria Moretti**
-Co-Founder and Designer at Sheldon.studio srl. Associate Professor at the University of Sassari. His work spans information design, visual journalism, and social design, with a focus on data as a tool for communication, participation, and social transformation. His practice integrates research, teaching, and professional work, exploring interdisciplinary approaches across design, social sciences, and digital technologies.
+Associate Professor at the University of Sassari. His work spans information design, visual journalism, and social design, with a focus on data as a tool for communication, participation, and social transformation. His practice integrates research, teaching, and professional work, exploring interdisciplinary approaches across design, social sciences, and digital technologies.
 
 ## Education
 Five-year single-cycle degree in Industrial Design at Politecnico di Milano: *Natural Behaviour in Digital Environment* 2005.
