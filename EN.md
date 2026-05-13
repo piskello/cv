@@ -5,7 +5,9 @@
 
 
 
-Associate Professor at the Department of Design, Architecture, and Planning at the University of Sassari
+Associate Professor
+Department of Design, Architecture, and Planning
+University of Sassari
 
 
 

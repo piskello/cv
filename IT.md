@@ -5,7 +5,9 @@
 
 
 
-Professore di seconda fascia presso il dipartimento di Design, Architettura e Urbanistica dell'Università degli Studi di Sassari
+Professore di seconda 
+Dipartimento di Design, Architettura e Urbanistica
+Università degli Studi di Sassari
 
 
 
