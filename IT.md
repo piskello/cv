@@ -13,6 +13,7 @@ Co-Founder e Designer presso Sheldon.studio srl
 
 hello@matteomoretti.com
 www.matteomoretti.com
+https://orcid.org/0000-0002-0595-7114
 ·
 *Aggiornato a Maggio 2026*
 @cover-end
