@@ -180,6 +180,10 @@ Conferenza internazionale che esplora linguaggi, approcci e tecnologie per rispo
 ## SID - Società Italiana Design
 Socio
 
+## Logon
+Socio fondatore
+
+
 @years Dal 2024
 ## SDN - Social Design Network
 Membro

@@ -181,6 +181,9 @@ International conference exploring languages, approaches, and technologies to me
 ## SID - Società Italiana Design
 Member
 
+## Logon
+Founding member
+
 @years Since 2024
 ## SDN - Social Design Network
 Member
