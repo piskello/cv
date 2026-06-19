@@ -326,6 +326,7 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 *Fake News Design* Cuneo (IT)  
 
 # Public talks, lectures, exhibitions, conferences, and awards
+<!-- sync:events:start -->
 ## Public talks
 @years 2026  
 *Dati sensibili: la rilevanza del design tra passato, presente e futuro / Sensitive data: design’s relevance across past, present, and future* Technology Biennale, Turin (IT)  
@@ -431,14 +432,11 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 *Exploring Socio-Social Design Practices for Migration* ENSAD, Paris (FR)  
 *Information Design: comunicare per mappare, mappare per comunicare / Information design: communicate to map, map to communicate* Sapienza University of Rome (online), Rome (IT)  
 
-@years 2019  
-*Behind a Visual Journalism Project* University of Trento, Trento (IT)
-
 ## Exhibitions
-@years 2025
+@years 2025  
 *Mapping Diversity* Torino Graphic Days, Turin (IT)  
 
-@years 2024
+@years 2024  
 *BlurM3Not* Torino Graphic Days, Turin (IT)  
 
 @years 2023  
@@ -466,42 +464,28 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 
 @years 2018  
 *Participatory Data Physicalization: Designing Informative Experiences* DGTF, Karlsruhe (DE)  
-*Visual Journalism come strumento per la narrazione della città altra / Visual journalism as a tool to narrate the other city* CIRICE Conference, Naples (IT)  
-
-## Awards, recognitions, competitions, and juries
-@years 2025  
-European Design Award (bronze)
-
-@years 2024  
-New European Bauhaus Prize finalist 
-
-@years 2019  
-ADI Design Index  
-
-@years 2018  
-Italian Design Ambassador
-World Press Photo Commission Member (Digital Storytelling Contest)
-
-@years 2017  
-European Design Award (bronze)
-World Press Photo Commission Member (Digital Storytelling Contest)
-
-@years 2016  
-European Design Award (bronze) 
-
-@years 2015  
-Data Journalism Award  
+*Visual Journalism come strumento per la narrazione della città altra / Visual journalism as a tool to narrate the other city* CIRICE Conference, Naples (IT)
+<!-- sync:events:end -->
 
 # Publications
+<!-- sync:publications:start -->
 ## Monographs
 Moretti, M. (2019). *Socio-social-design*. Corraini edizioni. ISBN 9788875708061
 
 ## Edited volumes
-Luigini, A., Moretti, M. (2022). *Visual Storytelling: 13 punti di vista*. LIStLab. ISBN 9788832080841
+Moretti, M., Bollini, L., Facchini, C. (Eds.). (2026a). *WUD 2023. Collaboration and Cooperation*. AIAP edizioni. ISBN 9788899718374
 
-Moretti, M., Burgio, V. (2019). *Europa Dreaming: Yearning for Europe From the Brenner Pass*. Bu.press. ISBN 9788860461537
+Moretti, M., Bollini, L., Facchini, C. (Eds.). (2026b). *WUD 2024. Designing for Better World*. AIAP edizioni. ISBN 9788899718404
+
+Luigini, A., Moretti, M. (Eds.). (2022). *Visual Storytelling: 13 punti di vista*. LIStLab. ISBN 9788832080841
+
+Moretti, M., Burgio, V. (Eds.). (2019). *Europa Dreaming: Yearning for Europe From the Brenner Pass*. Bu.press. ISBN 9788860461537
 
 ## Essays and book chapters
+Bollini, L., Facchini, C., Moretti, M. (2026). Designing for a “Better World?”. In L. Bollini, C. Facchini, M. Moretti (Eds.), *WUD 2024. Designing for Better World*. AIAP edizioni. ISBN 9788899718404
+
+Moretti, M., Bollini, L., Facchini, C. (2026). Postdisciplinary Scenarios to Collaborate and Cooperate for a Better World. In M. Moretti, L. Bollini, C. Facchini (Eds.), *WUD 2023. Collaboration and Cooperation* (pp. 7–11). AIAP edizioni. ISBN 9788899718374
+
 Moretti, M. (2023a). Dati come bene comune / Data as a commons. In E. Formia, V. Gianfrate, L. Succini (Eds.), *Design per l’innovazione responsabile: Guida per processi formativi in trasformazione*. ISBN 9788835144700
 
 Moretti, M. (2023b). Disabled Data, se i dati non esistono le persone non esistono / Disabled Data: if data do not exist, people do not exist. In E. E. Giunta (Ed.), *Design for social: Accelerare innovazione nell’impresa sociale–Boosting innovation in social enterprises* (Italian and English eds.). ISBN 9791221039566
@@ -558,15 +542,17 @@ Moretti, M. (2017d). People’s republic of Bolzano. *Sciences du Design*, *5*. 
 Moretti, M. (2011). Spaghetti Vespa typography. *Progetto Grafico*, *20*. ISSN 1824-1301
 
 ## Proceedings
-Moretti, M. (2025). Transforming the transformer in a time of crisis: Marie Neurath’s experience in the time of the web. In *Design 2025* (pp. 99–118). transcript verlag. ISBN 9783839476031. https://doi.org/10.14361/9783839476031-008 
- 
+Moretti, M. (2025). Transforming the transformer in a time of crisis: Marie Neurath’s experience in the time of the web. In *Design 2025* (pp. 99–118). transcript verlag. ISBN 9783839476031. https://doi.org/10.14361/9783839476031-008
+
+Menéndez Blanco, M., Ugur, S., Moretti, M. (2022). From data to concerns: Gender equity in higher education. In *2CO3 – Communicating Complexity*. Franco Angeli. ISBN 9788835164326
+
 Moretti, M. (2023). Design for graphicacy: The case of glocal climate change. In D. Villa, F. Zuccoli (Eds.), *Proceedings of IMG 2021: 3rd International and Interdisciplinary Conference on Image and Imagination* (*Lecture Notes in Networks and Systems*, Vol. 631, pp.). Springer Cham. ISBN 9783031259050. https://doi.org/10.1007/978-3-031-25906-7_81
 
 Rattalino, E., Moretti, M., Schmidt-Wulffen, S. (2023). Learning from scientific visualisations: Knowledge exchanges between science, design and art. In D. Villa, F. Zuccoli (Eds.), *Proceedings of IMG 2021: 3rd International and Interdisciplinary Conference on Image and Imagination* (*Lecture Notes in Networks and Systems*, Vol. 631, pp.). Springer Cham. ISBN 9783031259050. https://doi.org/10.1007/978-3-031-25906-7_42
 
-Menéndez Blanco, M., Ugur, S., Moretti, M. (2022). From data to concerns: Gender equity in higher education. In *2CO3 – Communicating Complexity*. Franco Angeli. ISBN 9788835164326
-
 Moretti, M., Mattozzi, A. (2020b). Participatory data physicalization: A new space to inform. In E. Cicalò (Ed.), *Proceedings of the 2nd International and Interdisciplinary Conference on Image and Imagination*. Springer Publishing. ISBN 9783030410186. https://doi.org/10.1007/978-3-030-41018-6
+
+Burgio, V., Moretti, M. (2017). The role of movement in data visualization: Animation as an agent of meaning. In N. Ceccarelli, C. Jiménez-Martínez (Eds.), *Contributions From the Tenerife Conference*. Universidad de La Laguna. ISBN 9788409101719. https://doi.org/10.25145/b.2COcommunicating.2020.017
 
 Moretti, M., Camillini, G. (2019). Communicating the heritage: A transmedia-driven approach. In *Proceedings of the 1st International and Interdisciplinary Conference on Digital Environments for Education, Arts and Heritage – EARTH 2018*. ISBN 9783030122393. https://doi.org/10.1007/978-3-030-12240-9_14
 
@@ -580,8 +566,6 @@ Moretti, M., de Chiara, F., Napolitano, M. (2018, July). Beyond transparency: Ma
 
 Luigini, A., Moretti, M. (2018). Visual journalism come strumento per la narrazione della città altra / Visual journalism as a tool to narrate the other city. In F. Capano, M. Pascariello, M. Visone (Eds.), *La Città Altra: Storia e immagine della diversità urbana* (Luoghi e paesaggi dei privilegi e del benessere, dell’isolamento, del disagio, della multiculturalità). FedOA Press.
 
-Burgio, V., Moretti, M. (2017). The role of movement in data visualization: Animation as an agent of meaning. In N. Ceccarelli, C. Jiménez-Martínez (Eds.), *Contributions From the Tenerife Conference*. Universidad de La Laguna. ISBN 9788409101719. https://doi.org/10.25145/b.2COcommunicating.2020.017
-
 Burgio, V., Moretti, M. (2017). Infographics as images: Meaningfulness beyond information. In *Proceedings of IMMAGINI? Image and Imagination Between Representation, Communication, Education and Psychology–IMG 2017*. ISBN 9783038426813. https://doi.org/10.3390/proceedings1090891
 
 Burgio, V., Moretti, M. (2017). Le forme della narrazione nel web-based documentary: Il caso Europa Dreaming / Narrative forms in the web-based documentary: The Europa Dreaming case. In A. M. Lorusso, F. Polacci (Eds.), *Atti del XLIV Congresso AISS – Narrazioni e forme del senso*. Associazione Italiana Studi Semiotici. ISSN 1970-7452
@@ -589,6 +573,7 @@ Burgio, V., Moretti, M. (2017). Le forme della narrazione nel web-based document
 Moretti, M. (2013). Cornu portraits: A generative homage to generative pioneers. In C. Soddu, E. Colabella (Eds.), *Proceedings of Generative Art 2013: XVI International Generative Art Conference*. Domus Argenia. ISBN 9788896610251
 
 Moretti, M., Benincasa, A., Gleiter, J. (2010). Generative and analog ornament. Swiss Design Network, *Negotiating Futures–Design Fiction: 6th Swiss Design Network Conference*.
+<!-- sync:publications:end -->
 
 # Professional practice
 Since 2000 he has worked in information design, digital communication, and data-driven storytelling.  
