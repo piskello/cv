@@ -1,1 +1,7 @@
 .DS_Store
+IRIS-export.csv
+credentials.json
+service-account*.json
+.env
+.env.*
+node_modules/

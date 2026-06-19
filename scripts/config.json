@@ -1,0 +1,103 @@
+{
+  "spreadsheetId": "1I3x8rL7NWZcqu57Fc011mfxAy9QHrIwkWPQmkNP5v1k",
+  "credentialsPath": "credentials.json",
+  "irisPath": "IRIS-export.csv",
+  "includeIrisOnly": false,
+  "irisAddFromYear": 2026,
+  "publisherOverrides": {
+    "AIAP - Associazione Italiana Design della Comunicazione Visiva": "AIAP edizioni",
+    "AIAP Edizioni": "AIAP edizioni"
+  },
+  "irisCollectionMap": {
+    "123456789/14": "monograph",
+    "123456789/39": "edited_volume",
+    "123456789/7": "chapter",
+    "123456789/9": "chapter",
+    "123456789/1": "journal",
+    "123456789/22": "proceedings",
+    "123456789/23": "proceedings"
+  },
+"tabs": {
+  "publications": { "gid": 0 },
+  "events": { "gid": 123456789 }
+},
+  "columnAliases": {
+    "publications": {
+      "type": ["type", "tipo", "category", "categoria"],
+      "year": ["year", "anno"],
+      "authors": ["authors", "autori"],
+      "title": ["title", "titolo"],
+      "titleEn": ["title_en", "titolo_en", "title en"],
+      "titleIt": ["title_it", "titolo_it", "title it"],
+      "editors": ["editors", "editori", "curatori"],
+      "bookTitle": ["book_title", "volume", "titolo_volume"],
+      "pages": ["pages", "pagine", "pp"],
+      "publisher": ["publisher", "editore"],
+      "journal": ["journal", "rivista"],
+      "volume": ["volume", "vol"],
+      "issue": ["issue", "numero", "fascicolo"],
+      "isbn": ["isbn"],
+      "issn": ["issn"],
+      "doi": ["doi"],
+      "url": ["url", "link"],
+      "sortOrder": ["sort_order", "ordine", "order"]
+    },
+    "events": {
+      "type": ["type", "tipo"],
+      "year": ["year", "anno"],
+      "title": ["title", "titolo"],
+      "titleEn": ["title_en", "titolo_en"],
+      "venue": ["venue", "evento", "luogo"],
+      "city": ["city", "città", "citta"],
+      "countryCode": ["country", "country_code", "paese", "nazione"],
+      "online": ["online"],
+      "sortOrder": ["sort_order", "ordine", "order"]
+    }
+  },
+  "sectionHeadings": {
+    "en": {
+      "monograph": "Monographs",
+      "edited_volume": "Edited volumes",
+      "chapter": "Essays and book chapters",
+      "journal": "Journal articles",
+      "proceedings": "Proceedings"
+    },
+    "it": {
+      "monograph": "Monografie",
+      "edited_volume": "Curatele",
+      "chapter": "Saggi e capitoli in libri",
+      "journal": "Articoli su riviste scientifiche",
+      "proceedings": "Proceedings"
+    }
+  },
+  "eventHeadings": {
+    "en": {
+      "talk": "Public talks",
+      "lecture": "Lectures",
+      "exhibition": "Exhibitions",
+      "conference": "Conference participation",
+      "award": "Awards, recognitions, competitions, and juries"
+    },
+    "it": {
+      "talk": "Public talk",
+      "lecture": "Lecture",
+      "exhibition": "Mostre",
+      "conference": "Partecipazione a conferenze",
+      "award": "Premi scientifici, riconoscimenti, concorsi e giurie"
+    }
+  },
+  "eventTypeAliases": {
+    "talk": ["talk", "public talk", "public talks", "conferenza"],
+    "lecture": ["lecture", "lectures", "lecture"],
+    "exhibition": ["exhibition", "exhibitions", "mostra", "mostre"],
+    "conference": ["conference", "conferenza scientifica", "conference participation"],
+    "award": ["award", "awards", "premio", "premi", "riconoscimento"]
+  },
+  "publicationTypeAliases": {
+    "monograph": ["monograph", "monografia", "monographs", "monografie"],
+    "edited_volume": ["edited_volume", "edited volume", "edited volumes", "curatela", "curatele"],
+    "chapter": ["chapter", "capitolo", "essay", "saggio", "essays and book chapters"],
+    "journal": ["journal", "articolo", "journal article", "articoli su rivista"],
+    "proceedings": ["proceedings", "atti", "conference paper", "proceeding"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cv",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "sync:dry": "node scripts/sync.mjs --dry-run"
+  },
+  "dependencies": {
+    "csv-parse": "^5.6.0",
+    "googleapis": "^144.0.0"
+  }
+}
