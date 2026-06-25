@@ -267,7 +267,7 @@ Thesis by Andrea Arcoraci – Examiners: Emanuela Bonini Lessing, Matteo Moretti
 ## Summer schools
 @years 2026  
 **MADE Program (Reggio Emilia)**
-*Dati dal basso / Data from below*
+*Dati dal basso*
 Intensive summer school on designing Participatory Data Physicalization installations to stimulate collective reflection on the future of Reggio Emilia’s Rosta Nuova neighbourhood.
 
 @years 2025  
@@ -294,9 +294,9 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 *Graphic Design Module Workshop* Will New Media Academy, Milan (IT)  
 
 @years 2025  
-*Dati e partecipazione / Data and participation*, Fondazione Links, Turin (IT)  
+*Dati e partecipazione*, Fondazione Links, Turin (IT)  
 *Data Triggers* Hochschule der Künste Bern (online, CH)  
-*Data Storytelling per la comunicazione scientifica / Data storytelling for scientific communication* SUPSI, Mendrisio (CH)  
+*Data storytelling for scientific communication* SUPSI, Mendrisio (CH)  
 *Scientists and Graphic Abstracts: A Complicated Relationship* Centro Culturale Don Orione Artigianelli, Venice (IT)  
 
 @years 2024  
@@ -304,7 +304,7 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 *Data Journalism* ELISAVA, Barcelona (ES) 
 
 @years 2023  
-*Visualizzazione dei dati per la comunicazione scientifica / Data visualisation for scientific communication* SUPSI, Mendrisio (CH)  
+*Data visualisation for scientific communication* SUPSI, Mendrisio (CH)  
 *Info Design* University of Sassari, Alghero (IT)  
 *Data Journalism* ELISAVA, Barcelona (ES)  
 
@@ -314,9 +314,9 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 
 @years 2021  
 *Urban Dataviz Contest* AIAP, Rovigo (IT)  
-*Data Design per non esperti / Data design for non-specialists* RivistaCasanova, Bolzano (IT)  
-*Iperoggetti vicini e lontani / Hyper-objects near and far* IUAV, Venice (IT)  
-*Linguaggi multimediali e visual journalism / Multimedia languages and visual journalism* online  
+*Data Design per non esperti* RivistaCasanova, Bolzano (IT)  
+*Iperoggetti vicini e lontani* IUAV, Venice (IT)  
+*Multimedia languages and visual journalism* online  
 *Data Journalism* ELISAVA (online, ES)  
 
 @years 2020  
@@ -329,18 +329,18 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 <!-- sync:events:start -->
 ## Public talks
 @years 2026  
-*Dati sensibili: la rilevanza del design tra passato, presente e futuro / Sensitive data: design’s relevance across past, present, and future* Technology Biennale, Turin (IT)  
+*Dati sensibili: la rilevanza del design tra passato, presente e futuro* Technology Biennale, Turin (IT)  
 *Dati dal basso* MADE Program, Reggio Emilia (IT)  
-*BlurM3Not: un’installazione interattiva di data gamification / BlurM3Not: an interactive data gamification installation* Learning Festival, Modena (IT)  
+*BlurM3Not: an interactive data gamification installation* Learning Festival, Modena (IT)  
 *From Graphic to Infographic* Will New Media Academy, Milan (IT)  
 
 @years 2025  
 *Digital Creative Reconstruction & Social Design Tools* DEL In Between, New York (US)  
-*Dati e partecipazione / Data and participation* World Usability Day, Rome (IT)  
+*Data and participation* World Usability Day, Rome (IT)  
 *Data is Fragile* Narrating Transformation in Marginal Territories, Bolzano (IT)  
 
 @years 2024  
-*Potenziare il sapere locale attraverso i dati / Empowering local knowledge through data* Learning Festival, Modena (IT)  
+*Potenziare il sapere locale attraverso i dati* Learning Festival, Modena (IT)  
 *Data Tada!* Dialoghi d’Impresa, Mestre (IT)  
 *Data Tada!* Triplosound Festival, Orvieto (IT)  
 *Digital Social Design* Graphic Days, Turin (IT)  
@@ -359,7 +359,7 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 *Designing Digital Commons* Crossings, Belmonte (IT)  
 *Designing Digital Commons* On Data and Design, Bern (CH)  
 *OpendataTalk* Milan Design Week (online), Milan (IT)  
-*Social Design Digitale / Digital social design* Milan Design Week (online), Milan (IT)  
+*Digital social design* Milan Design Week (online), Milan (IT)  
 *Mapping Diversity* Data Beers, Turin (IT)  
 *The Night of Alter-Realities* Porto Design Biennale (online), Porto (PT)  
 *Mapping Storytelling* Bolzanism, Bolzano (IT)  
@@ -370,8 +370,8 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 *Let’s Open the Open Data!* DataViz Live (online), London (UK)  
 *Let’s Open the Open Data!* WUD Perugia (online), Perugia (IT)  
 *How Charts Lie* Research Communication Week (online, IT)  
-*Apriamo gli Open Data! / Let’s open the open data!* Matera Open Data (online, IT)  
-*Design, Dati e Narrazioni / Design, data, and narratives* The Good Lobby (online, IT)  
+*Let’s open the open data!* Matera Open Data (online, IT)  
+*Design, data, and narratives* The Good Lobby (online, IT)  
 *Designing Informative Experiences for Enterprises* DataViz Live, London (UK)  
 *Information Experience across Industry and University* Visibilia, Verona (IT)  
 
@@ -385,11 +385,11 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 *Participatory Data Physicalization* 2CO Everyday, Milan (IT)  
 
 @years 2018  
-*Nuove forme di narrazione contro fake news / New narrative forms against fake news* SIAA, Cremona (IT)  
+*New narrative forms against fake news* SIAA, Cremona (IT)  
 *Good Design, Bad Design* WUD, Bolzano (IT)  
 *Europa Dreaming* Europe Direct, Cuneo (IT)  
 *Data & the City* Wild Mazzini, Turin (IT)  
-*Giornalista e Informatico / Journalist and computer scientist* Informatici Senza Frontiere, Rovereto (IT)  
+*Journalist and computer scientist* Informatici Senza Frontiere, Rovereto (IT)  
 
 ## Lectures
 @years 2025  
@@ -399,11 +399,11 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 *Social Information Design* Free University of Bozen-Bolzano (IT)  
 
 @years 2024  
-*Data viz/phyz/phyg per l’analisi dell’impatto / Data viz/phyz/phyg for impact analysis* University of Naples Federico II (IT)  
+*Data viz/phyz/phyg for impact analysis* University of Naples Federico II (IT)  
 *Socio Design* University of Naples Federico II (IT)  
 
 @years 2023  
-*Curare i dati: visualizzare la complessità? / Caring for data: visualising complexity?* MAXXI, Rome (IT)  
+*Curare i dati: visualizzare la complessità?* MAXXI, Rome (IT)  
 *Data, Data, Data, and Data Again!* University of Bologna (IT)  
 
 @years 2022  
@@ -419,18 +419,18 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 *Designing Digital Commons* IUAV (online, IT)  
 *Designing Digital Commons* UHasselt (online, BE)  
 *Data Leader Master* Dataninja School (online, IT)  
-*Il ruolo dell’infografica nel racconto della pandemia / The role of infographics in narrating the pandemic* Sapienza University of Rome (online, IT)  
+*Il ruolo dell’infografica nel racconto della pandemia (online, IT)  
 *Beyond DDJ* Lab24, Il Sole 24 Ore (online, IT)  
 *Opening the Open Data* Sapienza University of Rome (online, IT)  
-*Progettare con i dati / Designing with data* Camplus (online, IT)  
+*Designing with data* Camplus (online, IT)  
 *Designing Digital Commons* IUAV (online, IT)  
 *Designing Digital Commons* University of Bologna (online, IT)  
 
 @years 2020  
-*Collaborazione per l’azione pubblica / Collaboration for public action* IUAV (online, IT)  
+*Collaborazione per l’azione pubblica* IUAV (online, IT)  
 *Designing Digital Commons* University of Perugia (online, IT)  
 *Exploring Socio-Social Design Practices for Migration* ENSAD, Paris (FR)  
-*Information Design: comunicare per mappare, mappare per comunicare / Information design: communicate to map, map to communicate* Sapienza University of Rome (online), Rome (IT)  
+*Information Design: comunicare per mappare, mappare per comunicare (online), Rome (IT)  
 
 ## Exhibitions
 @years 2025  
@@ -452,6 +452,9 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 *Typeline* MAMbo, Bologna (IT)  
 
 ## Conference participation
+@years 2026
+*Designing with data, learning through practice* SID Conference, Bozen-Bolzano (IT)
+
 @years 2024  
 *Data Gamification: a Phygital Approach to Empower Local Knowledge* 2CO4 Conference, Barcelona (ES)  
 
@@ -464,7 +467,7 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 
 @years 2018  
 *Participatory Data Physicalization: Designing Informative Experiences* DGTF, Karlsruhe (DE)  
-*Visual Journalism come strumento per la narrazione della città altra / Visual journalism as a tool to narrate the other city* CIRICE Conference, Naples (IT)
+*Visual Journalism come strumento per la narrazione della città altra* CIRICE Conference, Naples (IT)
 <!-- sync:events:end -->
 
 # Publications
@@ -486,31 +489,31 @@ Bollini, L., Facchini, C., Moretti, M. (2026). Designing for a “Better World?�
 
 Moretti, M., Bollini, L., Facchini, C. (2026). Postdisciplinary Scenarios to Collaborate and Cooperate for a Better World. In M. Moretti, L. Bollini, C. Facchini (Eds.), *WUD 2023. Collaboration and Cooperation* (pp. 7–11). AIAP edizioni. ISBN 9788899718374
 
-Moretti, M. (2023a). Dati come bene comune / Data as a commons. In E. Formia, V. Gianfrate, L. Succini (Eds.), *Design per l’innovazione responsabile: Guida per processi formativi in trasformazione*. ISBN 9788835144700
+Moretti, M. (2023a). Dati come bene comune. In E. Formia, V. Gianfrate, L. Succini (Eds.), *Design per l’innovazione responsabile: Guida per processi formativi in trasformazione*. ISBN 9788835144700
 
-Moretti, M. (2023b). Disabled Data, se i dati non esistono le persone non esistono / Disabled Data: if data do not exist, people do not exist. In E. E. Giunta (Ed.), *Design for social: Accelerare innovazione nell’impresa sociale–Boosting innovation in social enterprises* (Italian and English eds.). ISBN 9791221039566
+Moretti, M. (2023b). Disabled Data, se i dati non esistono le persone non esistono. In E. E. Giunta (Ed.), *Design for social: Accelerare innovazione nell’impresa sociale–Boosting innovation in social enterprises* (Italian and English eds.). ISBN 9791221039566
 
-Moretti, M. (2022b). Raccontare i dati sul cambiamento climatico / Narrating data on climate change. In A. Luigini, M. Moretti (Eds.), *Visual Storytelling: 13 punti di vista* (pp. 18–27). LIStLab. ISBN 9788832080841
+Moretti, M. (2022b). Raccontare i dati sul cambiamento climatico. In A. Luigini, M. Moretti (Eds.), *Visual Storytelling: 13 punti di vista* (pp. 18–27). LIStLab. ISBN 9788832080841
 
-Moretti, M. (2022a). Covidash. Un progetto troppo lungo / Covidash. A project that went on too long. In I. Cortoni, C. V., F. V.,  M. M (Eds.), *Dai dati allo storytelling: Il ruolo dell’infografica nel racconto della pandemia COVID 19.* (pp. 108–117). Franco Angeli. ISBN 9788835137245
+Moretti, M. (2022a). Covidash. Un progetto troppo lungo. In I. Cortoni, C. V., F. V.,  M. M (Eds.), *Dai dati allo storytelling: Il ruolo dell’infografica nel racconto della pandemia COVID 19.* (pp. 108–117). Franco Angeli. ISBN 9788835137245
 
 Moretti, M. (2021a). Designing digital commons. In L. Casarotto, R. Fagnoni, G. Sinni (Eds.), *Oltre il visibile: Il design dei servizi per il territorio e i cittadini* (pp. 135–143). Ronzani. ISBN 9791259970817
 
 Moretti, M. (2021b). Exploring socio and social design practices for migration. In A. Bernagozzi (Ed.), *Towards sharing common futures* (pp. 134–146). Corraini edizioni. ISBN 9788875709785
 
-Moretti, M. (2021c). Mentire (meno) con le mappe / Lying (less) with maps. In E. Cicalò, E. Menchetelli, M. Valentino (Eds.), *Mappe* (pp. 970–989). PUBLICA. ISBN 9788899586201
+Moretti, M. (2021c). Mentire (meno) con le mappe. In E. Cicalò, E. Menchetelli, M. Valentino (Eds.), *Mappe* (pp. 970–989). PUBLICA. ISBN 9788899586201
 
 Bosco, A., Gasparotto, S. (2021). Participatory data physicalization as a tool to facilitate the opening of debates. In *Updating Values: Perspectives on Design Education* (pp. 208–215). Quodlibet. ISBN 9788822905451
 
 Moretti, M. (2020c). Participatory data physicalization: Designing informative experiences. In S. Foraita, B. Herlo, A. Vogelsang (Eds.), *Matters of Communication–Formen und Materialitäten gestalteter Kommunikation.* (pp. 136–141). Transcript Verlag. ISBN 9783839451182
 
-Moretti, M. (2019b). Design, migrazioni: Progettare oltre l’emergenza / Design and migration: Designing beyond emergency. In D. Piscitelli (Ed.), *First things first: Comunicare le emergenze, il design per una contemporaneità fragile.* (pp. 126–132). LIStLab. ISBN 9788832080131
+Moretti, M. (2019b). Design, migrazioni: Progettare oltre l’emergenza. In D. Piscitelli (Ed.), *First things first: Comunicare le emergenze, il design per una contemporaneità fragile.* (pp. 126–132). LIStLab. ISBN 9788832080131
 
 Burgio, V., Moretti, M. (2019). Dreaming and drowning: A project of visual journalism on borders and Europe. In V. Burgio M. Moretti (Eds.), *Europa dreaming* (pp. 1–15). Bu.Press. ISBN 9788860461537
 
 Moretti, M. (2019d). Visual journalism and the production of counter-narrations: The case of Europa Dreaming. In V. Burgio M. Moretti (Eds.), *Europa dreaming* (pp. 34–54). Bu.Press. ISBN 9788860461537
 
-Sinni, G., Moretti, M. (2019). La ricerca sul visual journalism, verso nuove esperienze informative immersive, partecipative e interattive / Visual journalism research: toward new immersive, participatory, and interactive informative experiences. In G. Sinni (Eds.), *Designing Civic Consciousness: ABC per la ricostruzione della coscienza civile* (pp. 1–10). Quodlibet. ISBN 9788822904195
+Sinni, G., Moretti, M. (2019). La ricerca sul visual journalism, verso nuove esperienze informative immersive, partecipative e interattive. In G. Sinni (Eds.), *Designing Civic Consciousness: ABC per la ricostruzione della coscienza civile* (pp. 1–10). Quodlibet. ISBN 9788822904195
 
 Moretti, M. (2017a). Data Visualization. In S. Splendore, M. Antenore (Eds.), *Data journalism: Guida essenziale alle notizie fatte con i numeri.* (pp. 89–102). Mondadori Università. ISBN 9788861845862
 
@@ -519,15 +522,15 @@ Moretti, M. (2015). Reporting the ‘invasion’: Perception and reality of Chin
 ## Journal articles
 Moretti, M., Mattozzi, A. (2025). From data to codex: Making knowledge public framing participation through participatory data physicalization. *Progetto Grafico*, *22*(41). ISSN 1824-1301. https://doi.org/10.82068/pgjournal.2025.22.41.09
 
-Bollini, L., Moretti, M. (2025). Publish or perish? L’accessibilità del discorso scientifico nell’ambito del design / Publish or perish? The accessibility of scientific discourse in design. *Progetto Grafico*, *22*(41). ISSN 1824-1301
+Bollini, L., Moretti, M. (2025). Publish or perish? The accessibility of scientific discourse in design. *Progetto Grafico*, *22*(41). ISSN 1824-1301
 
 Moretti, M. (2022). Mapping diversity: The memory street names celebrate. *PAD*, *15*(23). ISSN 1972-7887. https://www.padjournal.net/new/pad-23-2022-december-vol-15/
 
-Bortoloni, L., Moretti, M., Corona, A. (2022). Quasi lo stesso posto: Perdersi (e ritrovarsi) tra gli open data di un territorio / Almost the same place: Getting lost (and found) among a territory’s open data. *Progetto Grafico*, *38*. ISSN 1824-1301
+Bortoloni, L., Moretti, M., Corona, A. (2022). Quasi lo stesso posto: Perdersi (e ritrovarsi) tra gli open data di un territorio. *Progetto Grafico*, *38*. ISSN 1824-1301
 
 Moretti, M. (2020a). Opening the open data: Three digital social design cases. *Rivista italiana di ergonomia*, *21*. ISSN 2531-8845
 
-Moretti, M. (2019a). Design for migration: Nuove pratiche di design verso una società più inclusiva / Design for migration: New design practices toward a more inclusive society. *Roots–Routes Journal*, *IX*. ISSN 2039-5426. https://www.roots-routes.org/design-for-migration-nuove-pratiche-design-verso-societa-piu-inclusiva-matteo-moretti/
+Moretti, M. (2019a). Design for migration: Nuove pratiche di design verso una società più inclusiva. *Roots–Routes Journal*, *IX*. ISSN 2039-5426. https://www.roots-routes.org/design-for-migration-nuove-pratiche-design-verso-societa-piu-inclusiva-matteo-moretti/
 
 Moretti, M. (2019c). From visual journalism to informative experiences: Our research on socio design artefacts in the information field. *IMG Journal*, *1*(1), 214–233. ISBN 9788899586096. https://doi.org/10.6092/issn.2724-2463/11070
 
@@ -564,11 +567,11 @@ Luigini, A., Basso, D., Moretti, M., Brusaporci, S., Cicalò, E., Menchetelli, V
 
 Moretti, M., de Chiara, F., Napolitano, M. (2018, July). Beyond transparency: Making the Italian public administration more accessible through data storytelling. In *Proceedings of the IEEE 22nd International Conference on Information Visualisation (IV)*. ISBN 9781538672037. https://doi.org/10.1109/IV.2018.00050
 
-Luigini, A., Moretti, M. (2018). Visual journalism come strumento per la narrazione della città altra / Visual journalism as a tool to narrate the other city. In F. Capano, M. Pascariello, M. Visone (Eds.), *La Città Altra: Storia e immagine della diversità urbana* (Luoghi e paesaggi dei privilegi e del benessere, dell’isolamento, del disagio, della multiculturalità). FedOA Press.
+Luigini, A., Moretti, M. (2018). Visual journalism come strumento per la narrazione della città altra. In F. Capano, M. Pascariello, M. Visone (Eds.), *La Città Altra: Storia e immagine della diversità urbana* (Luoghi e paesaggi dei privilegi e del benessere, dell’isolamento, del disagio, della multiculturalità). FedOA Press.
 
 Burgio, V., Moretti, M. (2017). Infographics as images: Meaningfulness beyond information. In *Proceedings of IMMAGINI? Image and Imagination Between Representation, Communication, Education and Psychology–IMG 2017*. ISBN 9783038426813. https://doi.org/10.3390/proceedings1090891
 
-Burgio, V., Moretti, M. (2017). Le forme della narrazione nel web-based documentary: Il caso Europa Dreaming / Narrative forms in the web-based documentary: The Europa Dreaming case. In A. M. Lorusso, F. Polacci (Eds.), *Atti del XLIV Congresso AISS – Narrazioni e forme del senso*. Associazione Italiana Studi Semiotici. ISSN 1970-7452
+Burgio, V., Moretti, M. (2017). Le forme della narrazione nel web-based documentary: Il caso Europa Dreaming. In A. M. Lorusso, F. Polacci (Eds.), *Atti del XLIV Congresso AISS – Narrazioni e forme del senso*. Associazione Italiana Studi Semiotici. ISSN 1970-7452
 
 Moretti, M. (2013). Cornu portraits: A generative homage to generative pioneers. In C. Soddu, E. Colabella (Eds.), *Proceedings of Generative Art 2013: XVI International Generative Art Conference*. Domus Argenia. ISBN 9788896610251
 

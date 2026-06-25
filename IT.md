@@ -452,6 +452,9 @@ In collaborazione con IUAV e AIAP; sviluppo di progetti di data visualization a 
 *Typeline* MAMbo, Bologna (IT)  
 
 ## Partecipazione a conferenze
+@years 2026
+*Designing with data, learning through practice* SID Conference, Bozen-Bolzano (IT)
+
 @years 2024  
 *Data Gamification: a Phygital Approach to Empower Local Knowledge* 2CO4 Conference, Barcelona (ES)  
 
