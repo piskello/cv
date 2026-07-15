@@ -297,7 +297,7 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 *Dati e partecipazione*, Fondazione Links, Turin (IT)  
 *Data Triggers* Hochschule der Künste Bern (online, CH)  
 *Data storytelling for scientific communication* SUPSI, Mendrisio (CH)  
-*Scientists and Graphic Abstracts: A Complicated Relationship* Centro Culturale Don Orione Artigianelli, Venice (IT)  
+*Scientists and Graphic Abstracts: A Complicated Relationship* EIEE annual meeting, Venice (IT)  
 
 @years 2024  
 *Metaphors and Design Systems* Graphic Hunters (online, NL)  
