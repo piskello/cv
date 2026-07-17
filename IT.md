@@ -1,5 +1,5 @@
 @cover-begin
-# Matteo Maria Moretti
+# Matteo Moretti
 *Curriculum vitae accademico*
 
 
@@ -19,7 +19,7 @@ https://orcid.org/0000-0002-0595-7114
 *Aggiornato a Maggio 2026*
 @cover-end
 
-**Matteo Maria Moretti**
+**Matteo Moretti**
 Professore di seconda fascia presso l’Università degli Studi di Sassari. Si occupa di design dell’informazione, visual journalism e social design, con un focus sull’uso dei dati come strumento di comunicazione, partecipazione e trasformazione sociale. La sua attività integra ricerca, didattica e pratica professionale, esplorando approcci interdisciplinari tra design, scienze sociali e tecnologie digitali.
 
 ## Formazione

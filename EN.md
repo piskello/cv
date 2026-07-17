@@ -1,5 +1,5 @@
 @cover-begin
-# Matteo Maria Moretti
+# Matteo Moretti
 *Academic curriculum vitae*
 
 
@@ -20,7 +20,7 @@ https://orcid.org/0000-0002-0595-7114
 *updated May 2026*
 @cover-end
 
-**Matteo Maria Moretti**
+**Matteo Moretti**
 Associate Professor at the University of Sassari. His work spans information design, visual journalism, and social design, with a focus on data as a tool for communication, participation, and social transformation. His practice integrates research, teaching, and professional work, exploring interdisciplinary approaches across design, social sciences, and digital technologies.
 
 ## Education
