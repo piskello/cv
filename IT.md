@@ -16,7 +16,7 @@ hello@matteomoretti.com
 www.matteomoretti.com
 https://orcid.org/0000-0002-0595-7114
 ·
-*Aggiornato a Maggio 2026*
+*Aggiornato a Luglio 2026*
 @cover-end
 
 **Matteo Moretti**
