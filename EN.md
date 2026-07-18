@@ -325,7 +325,7 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 @years 2018  
 *Fake News Design* Cuneo (IT)  
 
-# Public talks, lectures, exhibitions, conferences, and awards
+# Public talks, lectures, exhibitions, conferences, awards and recognitions
 <!-- sync:events:start -->
 ## Public talks
 @years 2026  
@@ -451,43 +451,6 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 *Typeline* Bauhaus 100, Macerata (IT)  
 *Typeline* MAMbo, Bologna (IT)  
 
-## Awards and recognitions
-@years 2026 
-*Associazione per il Disegno Industriale (ADI)* — Included in the ADI Design Index 2026   
-Water data gamification for Sete Festival
-
-@years 2023  
-*New European Bauhaus Prize* — Finalist 
-Mapping Diversity
-
-@years 2022  
-*Data Journalism Award Glocal 2021* — Award   
-Mapping Diversity
-
-
-@years 2019  
-*Associazione per il Disegno Industriale (ADI)* — Included in the ADI Design Index 2019  
-LP Magazine
-
-@years 2018  
-*World Press Photo* — Jury member  
-Interactive Storytelling category.
-
-@years 2017  
-*World Press Photo* — Jury member  
-Interactive Storytelling category.
-
-*European Design Award* — Award (06/06/17)  
-Silver medal for "Europa Dreaming" 
-
-@years 2016  
-*European Design Award* — Award (06/06/16)  
-Bronze medal for "People's Republic of Bolzano" 
-
-@years 2015  
-*Data Journalism Award Glocal 2015* — Award (24/09/15)  
-Data visualization of the year for "People's Republic of Bolzano" 
-
 ## Conference participation
 @years 2026
 SID Conference, Bozen-Bolzano (IT)
@@ -514,6 +477,42 @@ DGTF, Karlsruhe (DE)
 
 CIRICE Conference, Naples (IT)
 *Visual Journalism come strumento per la narrazione della città altra* 
+
+## Awards and recognitions
+@years 2026 
+*Associazione per il Disegno Industriale (ADI)* — Included in the ADI Design Index 2026   
+Water data gamification for Sete Festival
+
+@years 2023  
+*New European Bauhaus Prize* — Finalist 
+Mapping Diversity
+
+@years 2022  
+*Data Journalism Award Glocal 2021* — Award   
+Mapping Diversity
+
+@years 2019  
+*Associazione per il Disegno Industriale (ADI)* — Included in the ADI Design Index 2019  
+LP Magazine
+
+@years 2018  
+*World Press Photo* — Jury member  
+Interactive Storytelling category.
+
+@years 2017  
+*World Press Photo* — Jury member  
+Interactive Storytelling category.
+
+*European Design Award* — Award (06/06/17)  
+Silver medal for "Europa Dreaming" 
+
+@years 2016  
+*European Design Award* — Award (06/06/16)  
+Bronze medal for "People's Republic of Bolzano" 
+
+@years 2015  
+*Data Journalism Award Glocal 2015* — Award (24/09/15)  
+Data visualization of the year for "People's Republic of Bolzano" 
 <!-- sync:events:end -->
 
 # Publications
