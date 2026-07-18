@@ -451,23 +451,70 @@ In collaborazione con IUAV e AIAP; sviluppo di progetti di data visualization a 
 *Typeline* Bauhaus 100, Macerata (IT)  
 *Typeline* MAMbo, Bologna (IT)  
 
-## Partecipazione a conferenze
-@years 2026
-*Designing with data, learning through practice* SID Conference, Bozen-Bolzano (IT)
-
-@years 2024  
-*Data Gamification: a Phygital Approach to Empower Local Knowledge* 2CO4 Conference, Barcelona (ES)  
+## Premi e riconoscimenti
+@years 2026 
+*Associazione per il Disegno Industriale (ADI)* — Incluso nell'ADI Design Index 2026   
+Water data gamification per Sete Festival
 
 @years 2023  
-*Framing Open Data as Digital Commons to Narrate the Diversity in European Cities' Street Names* Information+ Conference, Edinburgh (UK)  
-*Transforming the Transformer in a Time of Crisis* Social Design Network Conference, Budapest (HU)  
+*New European Bauhaus Prize* — Finalista 
+Mapping Diversity
+
+@years 2022  
+*Data Journalism Award Glocal 2021* — Premio   
+Mapping Diversity
+
 
 @years 2019  
-*Participatory Data Physicalization: A New Space to Inform* IMG Conference, Alghero (IT)  
+*Associazione per il Disegno Industriale (ADI)* — Incluso nell'ADI Design Index 2019  
+LP Magazine
 
 @years 2018  
-*Participatory Data Physicalization: Designing Informative Experiences* DGTF, Karlsruhe (DE)  
-*Visual Journalism come strumento per la narrazione della città altra* CIRICE Conference, Naples (IT)
+*World Press Photo* — Membro della giuria  
+Categoria Interactive Storytelling.
+
+@years 2017  
+*World Press Photo* — Membro della giuria  
+Categoria Interactive Storytelling.
+
+*European Design Award* — Premio (06/06/17)  
+Medaglia d'argento per "Europa Dreaming" 
+
+@years 2016  
+*European Design Award* — Premio (06/06/16)  
+Medaglia di bronzo "People's Republic of Bolzano" 
+
+@years 2015  
+*Data Journalism Award Glocal 2015* — Premio (24/09/15)  
+Data visualization of the year "People's Republic of Bolzano" 
+
+
+## Partecipazione a conferenze
+@years 2026
+SID Conference, Bozen-Bolzano (IT)
+*Designing with data, learning through practice* 
+
+@years 2024  
+2CO4 Conference, Barcelona (ES)  
+*Data Gamification: a Phygital Approach to Empower Local Knowledge* 
+
+@years 2023  
+ Information+ Conference, Edinburgh (UK)  
+*Framing Open Data as Digital Commons to Narrate the Diversity in European Cities' Street Names*
+
+ Social Design Network Conference, Budapest (HU)  
+*Transforming the Transformer in a Time of Crisis*
+
+@years 2019  
+IMG Conference, Alghero (IT)  
+*Participatory Data Physicalization: A New Space to Inform* 
+
+@years 2018  
+DGTF, Karlsruhe (DE)  
+*Participatory Data Physicalization: Designing Informative Experiences* 
+
+CIRICE Conference, Naples (IT)
+*Visual Journalism come strumento per la narrazione della città altra* 
 <!-- sync:events:end -->
 
 # Pubblicazioni

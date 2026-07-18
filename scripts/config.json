@@ -76,14 +76,14 @@
       "lecture": "Lectures",
       "exhibition": "Exhibitions",
       "conference": "Conference participation",
-      "award": "Awards, recognitions, competitions, and juries"
+      "award": "Awards and recognitions"
     },
     "it": {
       "talk": "Public talk",
       "lecture": "Lecture",
       "exhibition": "Mostre",
       "conference": "Partecipazione a conferenze",
-      "award": "Premi scientifici, riconoscimenti, concorsi e giurie"
+      "award": "Premi e riconoscimenti"
     }
   },
   "eventTypeAliases": {
