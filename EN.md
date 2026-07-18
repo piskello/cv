@@ -133,7 +133,7 @@ Aimed at creating new artefacts to encourage children to build and live stories 
 @years Since 2025  
 **Member of the Scientific Committee**  
 *Progetto Grafico*  
-Class A peer-reviewed journal
+Top Tier peer-reviewed journal
 
 @years Since 2024  
 **Member of the Scientific Committee**  
