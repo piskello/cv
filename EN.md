@@ -33,7 +33,7 @@ Five-year single-cycle degree in Industrial Design at Politecnico di Milano: *Na
 *University of Sassari*
 
 @years **2020–2021**
-## **Deputy Director of the Master’s programme Interaction & experience design**  
+## **Deputy Director, Interaction & Experience Design Master**  
 *University of the Republic of San Marino*
 
 @years (2010-2022)
