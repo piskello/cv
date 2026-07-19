@@ -232,7 +232,7 @@ Progettazione di visual journalism in collaborazione con Lab24 – Il Sole 24 Or
 Progettazione di artefatti digitali per aumentare la consapevolezza su temi globali e locali; approccio teorico-pratico nei laboratori di progetto.
 
 ## Tesi di Laurea
-Nei quindici anni di insegnamento in diverse università nazionali, è stato relatore di più di cinquanta tesi di laurea, con supervisione su temi legati al design sociale, digitale e interattivo. Ha supportato costantemente i tesisti nei loro progetti, incoraggiandoli ad esplorare le pieghe generate dal confronto del design con altre discipline e orientandoli verso la progettazione di artefatti inter o transdisciplinari.
+Nei quindici anni di insegnamento in diverse università nazionali, è stato relatore di più di settanta tesi di laurea, con supervisione su temi legati al design sociale, digitale e interattivo. Ha supportato costantemente i tesisti nei loro progetti, incoraggiandoli ad esplorare le pieghe generate dal confronto del design con altre discipline e orientandoli verso la progettazione di artefatti inter o transdisciplinari.
 
 ## Dottorato di ricerca
 @years 2026  

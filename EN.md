@@ -232,7 +232,7 @@ Visual journalism design in collaboration with Lab24 – Il Sole 24 Ore; integra
 Design of digital artefacts to raise awareness of global and local issues; theory and practice in design labs.
 
 ## Master’s theses
-Over fifteen years of teaching at several Italian universities, he has supervised more than fifty theses on social, digital, and interactive design. He has consistently supported students in their projects, encouraging exploration where design meets other disciplines and guiding them toward inter- or transdisciplinary artefacts.
+Over fifteen years of teaching at several Italian universities, he has supervised more than seventy theses on social, digital, and interactive design. He has consistently supported students in their projects, encouraging exploration where design meets other disciplines and guiding them toward inter- or transdisciplinary artefacts.
 
 ## PhD examination
 @years 2026  
