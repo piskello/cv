@@ -82,7 +82,7 @@ He co-founded the interdisciplinary research group Trans-form at the Free Univer
 ## Coordination of research projects and funding
 @years 2017-2020
 **De-constructing walls - Design practices for new perspectives on migration**  
-*Principal Investigator / Funding: unibz / Amount: €9,900*
+*Principal Investigator / Funding: Unibz / Amount: €9,900*
 
 From 2017 to 2020 the project collected, analysed, and mapped innovative and effective design experiences in the migration field through the designformigration.com archive. The research then fed into the monograph *Socio– Social– Design*, a first theoretical contribution on new forms of design in migration.
 
@@ -93,7 +93,7 @@ Commissioned by the Autonomous Province of South Tyrol, the project examined how
 
 @years 2018-2019
 **Take them at your place!**  
-*Principal Investigator / Funding: unibz / Amount: €19,000*  
+*Principal Investigator / Funding: Unibz / Amount: €19,000*  
 With an interdisciplinary team of anthropologists, photographers, video makers, and journalists, the project explored innovative narrative forms to support debate on widespread hospitality.
 
 @years 2017-2018
@@ -103,18 +103,18 @@ In collaboration with partner Know and Be live, the research project explored th
 
 @years 2015-2015
 **Brenner Crossing**  
-*Principal Investigator / Funding: unibz / Amount: €7,500*  
+*Principal Investigator / Funding: Unibz / Amount: €7,500*  
 The project explored new narrative approaches to the complexity of migration phenomena through interdisciplinary collaboration among designers, anthropologists, and archaeologists. The research culminated in curating *Europa Dreaming*.
 
 @years 2014-2015
 **People’s Republic of Bolzano**  
-*Principal Investigator / Funding: unibz / Amount: €3,500*  
+*Principal Investigator / Funding: Unibz / Amount: €3,500*  
 The project inaugurated the visual journalism research strand at the Free University of Bozen-Bolzano, bringing an interdisciplinary team at the intersection of design and social sciences to produce an interactive counter-narrative supporting more informed debate and mitigating stereotypes about the Chinese community in Bolzano.
 
 ## Participation in research projects and funding
 @years 2020-2021
 **Scientific visualisation: impact on practice**  
-*Consultant / Funding: unibz / Amount: €100,000*  
+*Consultant / Funding: Unibz / Amount: €100,000*  
 Images—and specifically data visualisations—were the shared ground for exchange and cross-fertilisation between designers and biologists in the Plenmistry research group.
 
 @years 2018
@@ -124,7 +124,7 @@ In partnership with the Institute for Regional Development at EURAC Research, th
 
 @years 2016
 **Co-story: co-desigining smart object-based storytelling with children**  
-*Co-Investigator / Funding: unibz / Amount: €10,000*  
+*Co-Investigator / Funding: Unibz / Amount: €10,000*  
 Aimed at creating new artefacts to encourage children to build and live stories through tangible objects using integrated digital technologies. The research develops design scenarios and interactive prototypes designed and tested by the project’s beneficiaries: children.
 
 # Editorial, scientific, and review boards
