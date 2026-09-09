@@ -292,6 +292,7 @@ In collaborazione con IUAV e AIAP; sviluppo di progetti di data visualization a 
 ## Workshop
 @years 2026   
 *Graphic Design Module Workshop* Will New Media Academy, Milano (IT)  
+*Communication and visual storytelling for qualitative research* Dipartimento di Sociologia e Ricerca Sociale - Università di Trento, (IT)
 
 @years 2025  
 *Dati e partecipazione*, Fondazione Links, Torino (IT)  
@@ -329,7 +330,8 @@ In collaborazione con IUAV e AIAP; sviluppo di progetti di data visualization a 
 <!-- sync:events:start -->
 ## Public talk
 @years 2026  
-*Dati sensibili: la rilevanza del design tra passato, presente e futuro* Technology Biennale, Turin (IT)  
+*Data as a Medium* Politecnico di Torino (IT)  
+*Dati sensibili: la rilevanza del design tra passato, presente e futuro* Technology Biennale, Torino (IT)  
 *Dati dal basso* MADE Program, Reggio Emilia (IT)  
 *BlurM3Not: un’installazione interattiva di data gamification* Learning Festival, Modena (IT)  
 *From Graphic to Infographic* Will New Media Academy, Milan (IT)  
