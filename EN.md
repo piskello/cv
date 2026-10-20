@@ -291,6 +291,7 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 
 ## Workshops
 @years 2026   
+*Framing participation with data* Eurac, Bolzano (IT)  
 *Graphic Design Module Workshop* Will New Media Academy, Milan (IT)  
 *Communication and visual storytelling for qualitative research* Dipartimento di Sociologia e Ricerca Sociale - Università di Trento, (IT)
 
@@ -330,6 +331,7 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 <!-- sync:events:start -->
 ## Public talks
 @years 2026  
+*Data is not enough* Eurac, Bolzano (IT)
 *Data as a Medium* Politecnico di Torino (IT) 
 *Dati sensibili: la rilevanza del design tra passato, presente e futuro* Technology Biennale, Turin (IT)  
 *Dati dal basso* MADE Program, Reggio Emilia (IT)  
