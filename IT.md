@@ -129,6 +129,10 @@ Con l’obiettivo di creare nuovi artefatti in grado di stimolare i bambini a co
 # Comitati editoriali, scientifici e review
 
 ## Comitati scientifici
+@years 2027
+**Membro del Program Committee**
+*Information+ Conference* (Milano)
+
 @years Dal 2025  
 **Membro del Comitato Scientifico**
 *Progetto Grafico*
@@ -139,9 +143,7 @@ Rivista peer-reviewed di fascia A
 *2CO4 – Communicating Complexity*
 Conferenza internazionale che esplora linguaggi, approcci e tecnologie per rispondere alla crescente esigenza di rendere accessibili informazioni complesse attraverso il design.
 
-@years 2026
-**Membro del Program Committee**
-*Information+ Conference* (Milano)
+
 
 ## Attività di revisione (peer review)
 @years 2026  

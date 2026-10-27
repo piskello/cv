@@ -130,6 +130,10 @@ Aimed at creating new artefacts to encourage children to build and live stories 
 # Editorial, scientific, and review boards
 
 ## Scientific committees
+@years 2027
+**Member of the Program Committee** 
+*Information+ Conference* (Milan)  
+
 @years Since 2025  
 **Member of the Scientific Committee**  
 *Progetto Grafico*  
@@ -139,10 +143,6 @@ Top Tier peer-reviewed journal
 **Member of the Scientific Committee**  
 *2CO4 – Communicating Complexity*  
 International conference exploring languages, approaches, and technologies to meet growing needs to make complex information accessible through design.
-
-@years 2026
-**Member of the Program Committee** 
-*Information+ Conference* (Milan)  
 
 ## Peer review activity
 @years 2026  
