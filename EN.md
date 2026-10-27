@@ -140,8 +140,13 @@ Top Tier peer-reviewed journal
 *2CO4 – Communicating Complexity*  
 International conference exploring languages, approaches, and technologies to meet growing needs to make complex information accessible through design.
 
+@years 2026
+**Member of the Program Committee** 
+*Information+ Conference* (Milan)  
+
 ## Peer review activity
 @years 2026  
+*Information+ Conference* (Milan)  
 *SID Conference (Bozen-Bolzano)*  
 *By Design and By Disaster Conference (Bozen-Bolzano)*
 
@@ -396,6 +401,9 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 *Journalist and computer scientist* Informatici Senza Frontiere, Rovereto (IT)  
 
 ## Lectures
+#years 2026
+*Making the invisible visible* Politecnico di Torino (IT)
+
 @years 2025  
 *Social Data Design* IUSVE, Verona (IT)  
 *Social Information Design* Shenkar, Tel Aviv (IL)  

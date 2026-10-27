@@ -139,8 +139,13 @@ Rivista peer-reviewed di fascia A
 *2CO4 – Communicating Complexity*
 Conferenza internazionale che esplora linguaggi, approcci e tecnologie per rispondere alla crescente esigenza di rendere accessibili informazioni complesse attraverso il design.
 
+@years 2026
+**Membro del Program Committee**
+*Information+ Conference* (Milano)
+
 ## Attività di revisione (peer review)
 @years 2026  
+*Information+ Conference* (Milano)
 *SID Conference (Bozen-Bolzano)*
 *By Design and By Disaster Conference (Bozen-Bolzano)*
 
@@ -396,6 +401,9 @@ In collaborazione con IUAV e AIAP; sviluppo di progetti di data visualization a 
 *Giornalista e Informatico* Informatici Senza Frontiere, Rovereto (IT)  
 
 ## Lecture
+#years 2026
+*Making the invisible visible* Politecnico di Torino (IT)
+
 @years 2025  
 *Social Data Design* IUSVE, Verona (IT)  
 *Social Information Design* Shenkar, Tel Aviv (IL)  
