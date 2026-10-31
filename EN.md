@@ -144,6 +144,10 @@ Top Tier peer-reviewed journal
 *2CO4 – Communicating Complexity*  
 International conference exploring languages, approaches, and technologies to meet growing needs to make complex information accessible through design.
 
+@years Since 2023  
+**Member of the Scientific Committee and Program Committee**  
+*World Usability Day (WUD)* (Bolzano)
+
 ## Peer review activity
 @years 2026  
 *Information+ Conference* (Milan)  

@@ -143,6 +143,9 @@ Rivista peer-reviewed di fascia A
 *2CO4 – Communicating Complexity*
 Conferenza internazionale che esplora linguaggi, approcci e tecnologie per rispondere alla crescente esigenza di rendere accessibili informazioni complesse attraverso il design.
 
+@years Dal 2023
+**Membro del Comitato Scientifico e del Comitato di Programma**
+*World Usability Day (WUD)* (Bolzano)
 
 
 ## Attività di revisione (peer review)
