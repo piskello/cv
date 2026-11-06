@@ -342,7 +342,6 @@ In collaborazione con IUAV e AIAP; sviluppo di progetti di data visualization a 
 ## Public talk
 @years 2026  
 *Data is not enough* Eurac, Bolzano (IT)
-*Data as a Medium* Politecnico di Torino (IT)  
 *Dati sensibili: la rilevanza del design tra passato, presente e futuro* Technology Biennale, Torino (IT)  
 *Dati dal basso* MADE Program, Reggio Emilia (IT)  
 *BlurM3Not: un’installazione interattiva di data gamification* Learning Festival, Modena (IT)  
@@ -408,6 +407,7 @@ In collaborazione con IUAV e AIAP; sviluppo di progetti di data visualization a 
 ## Lecture
 #years 2026
 *Making the invisible visible* Politecnico di Torino (IT)
+*Data as a Medium* Politecnico di Torino (IT)  
 
 @years 2025  
 *Social Data Design* IUSVE, Verona (IT)  
@@ -474,6 +474,9 @@ In collaborazione con IUAV e AIAP; sviluppo di progetti di data visualization a 
 *Data in Graphic* Torino Graphic Days, Turin (IT)  
 *Typeline* Bauhaus 100, Macerata (IT)  
 *Typeline* MAMbo, Bologna (IT)  
+
+@years 2013
+*Cornu Portraits* Generative design conference Exhibition, Milano (IT)
 
 ## Partecipazione a conferenze
 @years 2026
