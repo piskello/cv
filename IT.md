@@ -337,7 +337,7 @@ In collaborazione con IUAV e AIAP; sviluppo di progetti di data visualization a 
 @years 2018  
 *Fake News Design* Cuneo (IT)  
 
-@years 2013  
+@years 2010  
 *Generative and Analog Ornament* 6th Swiss Design Network Conference, Basilea (CH)  
 
 # Public talk, lecture, mostre, conferenze, premi e riconoscimenti
