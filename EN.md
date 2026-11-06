@@ -509,6 +509,10 @@ CIRICE Conference, Naples (IT)
 *Associazione per il Disegno Industriale (ADI)* — Included in the ADI Design Index 2026   
 Water data gamification for Sete Festival
 
+@years 2025
+*European Design Award* — Award (08/06/25)  
+Silver medal for "Seed Data Room" 
+
 @years 2023  
 *New European Bauhaus Prize* — Finalist 
 Mapping Diversity
