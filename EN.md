@@ -337,7 +337,7 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 *Fake News Design* Cuneo (IT)  
 
 @years 2010  
-*GenGenerative and Analog Ornament * 6th Swiss design network conference (CH), Basel (CH)  
+*Generative and Analog Ornament * 6th Swiss design network conference (CH), Basel (CH)  
 
 
 
