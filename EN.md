@@ -449,14 +449,21 @@ In collaboration with IUAV and AIAP; data visualisation projects from public ope
 *Information Design: comunicare per mappare, mappare per comunicare (online), Rome (IT)  
 
 ## Exhibitions
+@years 2026  
+*Barriera Mentale* Torino Graphic Days, Turin (IT)  
+*BlurM3Not* Learning Festival, Modena (IT)  
+
 @years 2025  
 *Mapping Diversity* Torino Graphic Days, Turin (IT)  
+*BlurM3Not* Festival della Scienza, Genova (IT)  
 
 @years 2024  
 *BlurM3Not* Torino Graphic Days, Turin (IT)  
+*BlurM3Not* Internet Festival, Pisa (IT)  
 
 @years 2023  
 *Information XYZ* Information+ Conference, Edinburgh (UK)  
+*BlurM3Not* Internet Festival, Pisa (IT)  
 
 @years 2022  
 *A World of 8 Billion Cities* International Festival of City Making (online)  
