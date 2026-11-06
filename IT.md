@@ -405,7 +405,7 @@ In collaborazione con IUAV e AIAP; sviluppo di progetti di data visualization a 
 *Giornalista e Informatico* Informatici Senza Frontiere, Rovereto (IT)  
 
 ## Lecture
-#years 2026
+@years 2026
 *Making the invisible visible* Politecnico di Torino (IT)
 *Data as a Medium* Politecnico di Torino (IT)  
 
